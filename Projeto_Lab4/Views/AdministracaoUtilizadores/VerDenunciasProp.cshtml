@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Proprietario>
+
+@{
+    ViewBag.Title = "Ver Denuncias";
+}
+
+@if (TempData["Desbloqueio"] != null)
+{
+    <br />
+    <br />
+    <p style="font-weight:bold;color:green;">@TempData["Desbloqueio"]</p>
+}
+<h2>Ver Denuncias</h2>
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+
+            <td>
+                @*     @if(item.Estado == 1)
+                      {
+                          @Html.Display("Em processamento")
+                      }
+
+                      @if (item.Estado == 0)
+                      {
+                          @Html.Display("Livre")
+                      }
+
+                    @if (item.Estado == 2)
+                     {
+                           @Html.Display("Bloqueado")
+                     }
+
+                *@
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @if (item.Estado == 1)
+                {
+                    <a href='@Url.Action("VerDetalhesDenunciasprop", "AdministracaoUtilizadores", new { id = item.ID_Proprietario})'>
+                        <button type="button" class="btn btn-danger btn-cons">Ver detalhes denuncia</button>
+                    </a>
+                }
+
+                @if (item.Estado == 2)
+                {
+                    <a href='@Url.Action("DesloquearUtilizadorprop", "AdministracaoUtilizadores", new { id = item.ID_Proprietario })'>
+                        <button type="button" class="btn btn-success">Desbloquear Utilizador</button>
+                    </a>
+                }
+            </td>
+        </tr>
+
+    }
+</table>
+

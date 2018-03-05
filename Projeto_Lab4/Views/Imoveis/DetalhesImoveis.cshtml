@@ -1,0 +1,161 @@
+﻿@model Projeto_Lab4.Models.Imovel
+
+@{
+    ViewBag.Title = "DetalhesImoveis";
+}
+
+
+
+@section cssstyle{
+    
+<link href="~/Content/Site.css" rel="stylesheet" />
+ }
+    <div class="container">
+        <div class="card">
+            <div class="container-fliud">
+                <div class="wrapper row">
+                    <div class="preview col-md-6">
+
+                        <div class="preview-pic tab-content">
+                            <div class="tab-pane active" id="pic-1"><img src="@ViewBag.foto1" /></div>
+                            <div class="tab-pane" id="pic-2"><img src="@ViewBag.foto2" /></div>
+                            <div class="tab-pane" id="pic-3"><img src="@ViewBag.foto3" /></div>
+                            <div class="tab-pane" id="pic-4"><img src="@ViewBag.foto4" /></div>
+                            <div class="tab-pane" id="pic-5"><img src="@ViewBag.foto5" /></div>
+                        </div>
+                        <ul class="preview-thumbnail nav nav-tabs">
+                            <li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="@ViewBag.foto1" /></a></li>
+                            <li><a data-target="#pic-2" data-toggle="tab"><img src="@ViewBag.foto2" /></a></li>
+                            <li><a data-target="#pic-3" data-toggle="tab"><img src="@ViewBag.foto3" /></a></li>
+                            <li><a data-target="#pic-4" data-toggle="tab"><img src="@ViewBag.foto4" /></a></li>
+                            <li><a data-target="#pic-5" data-toggle="tab"><img src="@ViewBag.foto5" /></a></li>
+                        </ul>
+
+                    </div>
+                    <div class="details col-md-6">
+                        <h3 class="product-title">T @Model.Quantidade_de_Quartos em @Model.Encontra_se.Concelho.Nome_concelho , @Model.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito</h3>
+                        <div class="rating">
+                            <div class="stars">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star"></span>
+                                <span class="fa fa-star"></span>
+                            </div>
+                            <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
+                                <li>@Model.Tipo_de_Imovel</li>
+                                @if (Model.Finalidade == "Ambos")
+                                {
+                                    <li style="list-style: none">|</li>
+                                    <li>Finalidade: Vender ou alugar</li>
+                                }
+                                else
+                                {
+                                    if (Model.Finalidade == "Comprar")
+                                    {
+                                        <li style="list-style: none">|</li>
+                                        <li>Finalidade: Vender</li>
+                                    }
+                                    else
+                                    {
+                                        <li style="list-style: none">|</li>
+                                        <li>Finalidade: Alugar</li>
+                                    }
+                                }
+                                <li style="list-style: none">|</li>
+                                <li>@Model.N_vizualizacoes Vizualizações</li>
+                                @if (Model.Garagem == true)
+                                {
+                                    <li style="list-style: none">|</li>
+                                    <li>Tem garagem</li>
+                                }
+                                else
+                                {
+                                    <li style="list-style: none">|</li>
+                                    <li>Não tem garagem</li>
+                                }
+                            </ul>
+                            <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
+                                <li>@Model.Metros m2</li>
+                                <li style="list-style: none">|</li>
+                                <li>@Model.Quantidade_de_Quartos Quartos</li>
+                                <li style="list-style: none">|</li>
+                                <li>@Model.Quantidade_de_Casas_de_Banho Casas de banho</li>
+                                <li style="list-style: none">|</li>
+                                <li>@Model.Quantidade_de_Suits Suits</li>
+                            </ul>
+                        </div>
+                        <p class="product-description">@Model.Descricao</p>
+                        @if (Model.Valor_venda != null && Model.Valor_aluguer!=null)
+                        {
+                            <h4 class="price"> Valor de venda: <span>@Model.Valor_venda € </span></h4>
+                            <h4 class="price"> Valor de aluguer: <span>@Model.Valor_aluguer € </span></h4>
+                        }
+                        else
+                        {
+                            if (Model.Valor_venda != null)
+                            {
+                                <h4 class="price"> Valor de venda: <span>@Model.Valor_venda € </span></h4>
+                            }
+                            else
+                            {
+                                <h4 class="price"> Valor de aluguer: <span>@Model.Valor_aluguer € </span></h4>
+                            }
+                        }
+                        @if ((string)TempData["registado"] != "nao")
+                        {
+                        <div align="center">
+                            <a href='@Url.Action("VerComentarios", "Imoveis", new { idimovel = Model.ID_Imovel })'>
+                                <button type="button" class="btn btn-info">Ver Comentários</button>
+                                @if ((string)TempData["prop"] != "prop")
+                                {
+                                <a href='@Url.Action("Comentar", "Imoveis", new { idimovel = Model.ID_Imovel })'>
+                                    <button type="button" class="btn btn-info">Escrever comentários</button>
+                                </a>
+                                }
+                                @if ((string)TempData["donodoimovel"] == "sim")
+                                {
+                                    <div class="action">
+                                        <br />
+                                        <a href='@Url.Action("editarimovel", "Imoveis", new { id = Model.ID_Imovel })'>
+                                            <button type="button" class="add-to-cart btn btn-default">Editar dados do Imóvel</button>
+                                        </a>
+                                        <br />
+                                    </div>
+                                    <div class="action">
+                                        <br />
+                                        <a href='@Url.Action("editarfotosimovel", "Imoveis", new { id = Model.ID_Imovel })'>
+                                            <button type="button" class="add-to-cart btn btn-default">Editar fotos do imóvel</button>
+                                        </a>
+                                        <br />
+                                    </div>
+
+                                }
+                                else
+                                {
+                                <div class="action">
+                                    <br />
+                                    <a href='@Url.Action("VerPerfilProp", "Proprietario", new { id = Model.PossuiImovel.ID_Proprietario })'>
+                                        <button type="button" class="add-to-cart btn btn-default">Contactar Propriétario</button>
+                                    </a>
+                                    <br />
+                                </div>
+                                }
+                        </div>
+                        }
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<br />
+<br />
+<div align="center">
+    <iframe width="1000"
+            height="350"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBWQ8wo5kMp5uzYakkgker_oDDuyrarKSE
+    &q=@Model.Latitude, @Model.Longitude" allowfullscreen></iframe>
+</div>

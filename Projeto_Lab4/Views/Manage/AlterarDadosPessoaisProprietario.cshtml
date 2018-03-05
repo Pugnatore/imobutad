@@ -1,0 +1,77 @@
+﻿@model Projeto_Lab4.Models.Proprietario
+
+@{
+    ViewBag.Title = "AlterarDadosPessoaisProprietario";
+}
+
+<h2>Alterar Dados Pessoais Proprietario</h2>
+
+@if (TempData["dados"] != null)
+{
+    <p style="font-weight:bold; color:green;">@TempData["dados"]</p>
+}
+@using (Html.BeginForm())
+{
+
+@Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Altere aqui os seus dados pessoais</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.ID_Proprietario)
+
+    @Html.HiddenFor(model => model.Tipo_Utilizador)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @Html.HiddenFor(model => model.Email)
+
+    @Html.HiddenFor(model => model.Data_de_Registo)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Data_Nascimento, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Data_Nascimento, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Data_Nascimento, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @Html.HiddenFor(model => model.Username)
+
+    @Html.HiddenFor(model => model.Password)
+
+    @Html.HiddenFor(model => model.Estado)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Numero_de_Telemovel, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Numero_de_Telemovel, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Numero_de_Telemovel, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Cartao_de_Cidadao, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Cartao_de_Cidadao, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Cartao_de_Cidadao, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Submeter" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

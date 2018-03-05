@@ -1,0 +1,79 @@
+﻿@model Projeto_Lab4.Models.Inquilino
+
+@{
+    ViewBag.Title = "ProfileInquilino";
+}
+
+<h2>ProfileInquilino</h2>
+
+<div>
+    <h4>Inquilino</h4>
+    <hr />
+    <dl class="dl-horizontal">
+       
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_de_Registo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_de_Registo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_Nascimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_Nascimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero_de_Telemovel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero_de_Telemovel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cartao_de_Cidadao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cartao_de_Cidadao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href='@Url.Action("VerDenuncias","AdministracaoUtilizadores")'>
+        <button type="button" class="btn btn-danger btn-cons">Ver denuncias</button>
+    </a>   
+    @Html.ActionLink("Back to List", "Index")
+</p>

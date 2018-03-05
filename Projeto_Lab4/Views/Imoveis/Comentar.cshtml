@@ -1,0 +1,35 @@
+﻿@model Projeto_Lab4.Models.Comenta
+
+
+    @Html.AntiForgeryToken()
+    @section cssstyle{
+    <link href="~/Content/Site.css" rel="stylesheet" />
+        }
+<div align="center">
+    <div class="form-horizontal">
+        <br />
+    <h4>Adicionar comentário</h4>
+    <hr />
+    @using (Html.BeginForm("Comentar", "Imoveis", FormMethod.Post, new { @class = "form-horizontal", role = "form"}))
+    {
+        <div class="comments">
+            <div class="comment-wrap">
+                <div class="photo">
+                    <div class="avatar" style="background-image: url('https://i9.photobucket.com/albums/a88/creaticode/avatar_1_zps8e1c80cd.jpg')"></div>
+                </div>
+                <div class="comment-block">
+                    <form action="">
+                        <textarea name="Texto" id="" cols="30" rows="3" placeholder="Adicionar commentário..."></textarea>
+                    </form>
+                </div>
+            </div>
+                <br />
+                <input type="submit" value="Adicionar comentário" class="btn btn-default" />
+        </div>
+        
+
+
+    }
+</div>
+</div>
+

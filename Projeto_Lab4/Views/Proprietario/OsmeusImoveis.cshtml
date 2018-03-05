@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Imovel>
+
+@{
+    ViewBag.Title = "OsmeusImoveis";
+}
+
+<h2>Os meus Imoveis</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Rua)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo_Postal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.N_Porta)
+        </th>
+
+
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rua)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Codigo_Postal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.N_Porta)
+        </td>
+        @if ((string)TempData["tipo"] == "Prop")
+        {
+        if (TempData["aaa"] == null)
+        {
+        
+            if (item.Estado == 0 || item.Estado == 2)
+            {
+                <td>
+                    <a href='@Url.Action("Verperfilinquilino", "Proprietario", new { id = item.ID_Imovel })'>
+                        <button type="button" class="btn btn-danger">Ver perfil do Inquilino</button>
+                    </a>
+                </td>
+            }
+
+
+        
+                if (item.Estado == 1)
+                {
+                    <td>
+                        <a href='@Url.Action("RegistarVenda", "Proprietario", new { id = item.ID_Imovel })'>
+                            <button type="button" class="btn btn-danger">Registar Venda</button>
+                        </a>
+                    </td>
+                }
+
+       
+                if (item.Estado == 1)
+                {
+                    <td>
+                        <a href='@Url.Action("RegistarAlguer", "Proprietario", new { id = item.ID_Imovel })'>
+                            <button type="button" class="btn btn-danger">Registar Aluguer</button>
+                        </a>
+                    </td>
+                }
+
+            }
+        }
+
+        else
+        {
+            <td>
+                <a href='@Url.Action("Verperfilproprietario", "Proprietario", new { id = item.ID_Imovel })'>
+                    <button type="button" class="btn btn-danger">Ver perfil do Proprietário</button>
+                </a>
+            </td>
+        }
+        
+    </tr>
+}
+
+</table>

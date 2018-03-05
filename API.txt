@@ -1,0 +1,9 @@
+AIzaSyBWQ8wo5kMp5uzYakkgker_oDDuyrarKSE
+<div align="center">
+    <iframe width="1000"
+            height="350"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBWQ8wo5kMp5uzYakkgker_oDDuyrarKSE
+    &q=@Model.Latitude, @Model.Longitude" allowfullscreen></iframe>
+</div>
+41.246902,-8.3575922

@@ -1,0 +1,144 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Imovel>
+
+@{
+    ViewBag.Title = "PesquisaAvancada";
+}
+@section cssstyle{
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            width: 850px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            margin-left: -50px;
+            background-color: white;
+            background-image: url('/Content/1832-200.png');
+            background-size: 25px;
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            padding: 12px 20px 12px 40px;
+            -webkit-transition: width 0.4s ease-in-out;
+            transition: width 0.4s ease-in-out;
+        }
+
+            input[type=text]:focus {
+                width: 100%;
+            }
+    </style>
+}
+
+
+<div class="container body-content">
+    @using (Html.BeginForm("PesquisaAvancada", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        <br />
+        <br />
+        <div class="form-group" style="width: 980px;">
+            <div class="col-md-offset-2 col-md-10">
+                <div align="center">
+                    <h2>Pesquisa Avançada</h2>
+                    <input type="text" name="Localizacao" placeholder="Pesquisar imóvel por distrito ou concelho...">
+              
+                    <br />
+                    <br />
+                    <select name="Tipo_de_imovel">
+                        <option value="">--Escolha um tipo de Imóvel--</option>
+                        <option value="Apartamento">Apartamento</option>
+                        <option value="Moradias">Moradias</option>
+                        <option value="Quartos">Quartos</option>
+                    </select>
+                    <select name="Finalidade">
+                        <option value="">--Escolha a finalidade--</option>
+                        <option value="Comprar">Comprar</option>
+                        <option value="Alugar">Alugar</option>
+                        <option value="Ambos">Ambos</option>
+                    </select>
+                    <select name="Tipologia">
+                        <option value="">--Escolha a tipologia--</option>
+                        <option value="0">T0</option>
+                        <option value="1">T1</option>
+                        <option value="2">T2</option>
+                        <option value="3">T3</option>
+                        <option value="4">T4</option>
+                        <option value="5">T5</option>
+                        <option value="6">T6</option>
+                        <option value="7">T7</option>
+                    </select>
+                    <br />
+                    <h5>Preço: <input type="search" name="Precomin" class="btn btn-default" />  até  <input type="search" name="Precomax" class="btn btn-default" /> </h5>
+                    <h5>Área útil(m2): <input type="search" name="Areamin" class="btn btn-default" />  até  <input type="search" name="Areamax" class="btn btn-default" /></h5>
+                    
+                    <input type="submit" value="Pesquisar" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
+
+<div class="container-fluid" @*style="background-color:#e8e8e8"*@>
+    <div class="container container-pad" id="property-listings">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Resultados da sua pesquisa</h1>
+            </div>
+        </div>
+
+        @if (ViewBag.erro != null)
+        {
+            <p style="color:#e01212;">@ViewBag.erro </p>
+        }
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-6">
+                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
+                        <div class="media">
+                            <a class="pull-left" href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel" target="_parent">
+                                <img alt="image" class="img-responsive" src="@item.Foto_principal">
+                            </a>
+                            <div class="clearfix visible-sm"></div>
+                            <div class="media-body fnt-smaller">
+                                <a href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel" target="_parent"></a>
+                                <h4 class="media-heading">
+                                    @if (item.Valor_venda != null)
+                                    {
+                                        <a href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel" target="_parent">
+                                            Valor de Venda: @item.Valor_venda €<small class="pull-left">@item.Encontra_se.Concelho.Nome_concelho, @item.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito</small>
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <a href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel" target="_parent">
+                                            Valor de Aluguer: @item.Valor_aluguer €<small class="pull-left">@item.Encontra_se.Concelho.Nome_concelho, @item.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito</small>
+                                        </a>
+                                    }
+
+                                </h4>
+                                <br />
+                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
+                                    <li>@item.Metros m2</li>
+                                    <li style="list-style: none">|</li>
+                                    <li>@item.Quantidade_de_Quartos Quartos</li>
+                                    <li style="list-style: none">|</li>
+                                    <li>@item.Quantidade_de_Casas_de_Banho Casas de banho</li>
+                                </ul>
+                                <p class="hidden-xs">
+                                    @item.Descricao.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+        </div>
+
+    </div>
+</div>
+

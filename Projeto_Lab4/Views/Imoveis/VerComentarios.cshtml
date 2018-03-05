@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Comenta>
+
+@section cssstyle{
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    }
+<h1>Comentarios</h1>
+@foreach (var item in Model)
+{
+    <div class="comments-container">
+        
+        <ul id="comments-list" class="comments-list">
+            <li>
+                <div class="comment-main-level">
+                    <!-- Avatar -->
+                    <div class="comment-avatar"><img src=" @item.Inquilino.Foto_perfil" alt=""></div>
+                    <!-- Contenedor del Comentario -->
+                    <div class="comment-box">
+                        <div class="comment-head">
+                            <h6 class="comment-name by-author">@item.Inquilino.Nome</h6>
+                            <span>@item.Data_de_comentario.Day/@item.Data_de_comentario.Month/@item.Data_de_comentario.Year</span>
+
+                        </div>
+                        <div class="comment-content">
+                            @item.Texto
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+}

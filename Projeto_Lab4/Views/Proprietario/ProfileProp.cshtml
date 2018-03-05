@@ -1,0 +1,89 @@
+﻿@model Projeto_Lab4.Models.Proprietario
+
+@{
+    ViewBag.Title = "ProfileProp";
+}
+
+
+
+
+    <div class="container">
+        <div class="row">
+            <p></p>
+            <div class="stats-buttons-grid">
+                <div class="row">
+                    <div class="col-lg-4 ">
+                            <div class="thumbnail" align="center">
+                                <div class="icon">
+                                    <i class="fa fa-file-text-o" style="font-size: 72px; margin-top: 7px;"> <img id="profile-img" class="profile-img-card" src="@Model.Foto_perfil" /></i>
+                                </div>
+                                <div class="caption">
+                                    <dl class="dl-horizontal">
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Tipo_Utilizador)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Tipo_Utilizador)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Nome)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Nome)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Email)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Email)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Data_de_Registo)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Data_de_Registo)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Data_Nascimento)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Data_Nascimento)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Username)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Username)
+                                        </dd>
+
+                                        <dt>
+                                            @Html.DisplayNameFor(model => model.Numero_de_Telemovel)
+                                        </dt>
+
+                                        <dd>
+                                            @Html.DisplayFor(model => model.Numero_de_Telemovel)
+                                        </dd>
+
+                                    </dl>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+

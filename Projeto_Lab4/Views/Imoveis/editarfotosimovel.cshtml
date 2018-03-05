@@ -1,0 +1,68 @@
+﻿@model Projeto_Lab4.Models.PhotoInfo
+
+
+<h2>Carregar fotos do imóvel</h2>
+
+@using (Html.BeginForm("editarfotosimovel", "Imoveis", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Selecione o Ficheiro!", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="file1" value="" class="form-control file-input" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Nome_foto1, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Selecione o Ficheiro!", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="file2" value="" class="form-control file-input" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Nome_foto2, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Selecione o Ficheiro!", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="file3" value="" class="form-control file-input" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Nome_foto3, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Selecione o Ficheiro!", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="file4" value="" class="form-control file-input" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Nome_foto4, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("Selecione o Ficheiro!", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="file5" value="" class="form-control file-input" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Nome_foto5, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Guardar" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

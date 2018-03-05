@@ -1,0 +1,74 @@
+﻿@model Projeto_Lab4.Models.Inquilino
+
+@{
+    ViewBag.Title = "PerfilParaProp";
+}
+
+<h2>PerfilParaProp</h2>
+
+<div>
+    <h4>Inquilino</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_de_Registo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_de_Registo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_Nascimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_Nascimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero_de_Telemovel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero_de_Telemovel)
+        </dd>
+
+        <a href='@Url.Action("DenunciarInquilino","Proprietario",new {id=Model.ID_Inquilino })'>
+            <button type="button" class="btn btn-danger btn-cons">Denunciar Inquilino</button>
+        </a>   
+       
+   
+
+    </dl>
+</div>
+<br />
+<br />
+<p>
+    @Html.ActionLink("Back to List", "Index", "Home")
+</p>

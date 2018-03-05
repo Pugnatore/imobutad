@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Aluga>
+<br />
+<h3>Histórico de Alugueres</h3>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Imovel.Tipo_de_Imovel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Imovel.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Imovel.Rua)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Imovel.Quantidade_de_Quartos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Imovel.Metros)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imovel.Tipo_de_Imovel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imovel.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imovel.Rua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imovel.Quantidade_de_Quartos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imovel.Metros)
+            </td>
+        </tr>
+    }
+
+</table>
+

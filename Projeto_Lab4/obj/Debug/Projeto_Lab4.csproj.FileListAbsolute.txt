@@ -1,0 +1,1547 @@
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4_copia\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut\Downloads\Projeto_Lab4\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+H:\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+H:\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+H:\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+H:\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+H:\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+H:\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+H:\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+H:\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+H:\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+H:\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Downloads\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 3 1\Projeto_Lab4 3\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\Telmo\Desktop\Projeto_Lab4 7\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\ApplicationInsights.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.exe.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csc.rsp
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.exe.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\csi.rsp
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.AppContext.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Console.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Threading.Thread.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.exe.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\vbc.rsp
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll.config
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Projeto_Lab4.pdb
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Owin.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\WebGrease.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Helpers.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Mvc.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Optimization.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.Razor.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Antlr3.Runtime.pdb
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Newtonsoft.Json.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\bin\Microsoft.AI.Web.xml
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.dll
+C:\Users\omeut.DESKTOP-VV8R8O8\Desktop\UTAD\3º ano\Lab4\Projeto_Lab4 8\Projeto_Lab4\Projeto_Lab4\obj\Debug\Projeto_Lab4.pdb

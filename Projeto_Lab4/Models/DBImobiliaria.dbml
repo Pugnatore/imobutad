@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBImobiliaria" Class="DBImobiliariaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DBImobiliaria.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DBImobiliariaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Administrador" Member="Administradors">
+    <Type Name="Administrador">
+      <Column Name="ID_Administrador" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Tipo_Utilizador" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Data_Nascimento" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cartao_de_Cidadao" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Administrador_BloqueiaInqulino" Member="BloqueiaInqulinos" ThisKey="ID_Administrador" OtherKey="ID_Administrador" Type="BloqueiaInqulino" />
+      <Association Name="Administrador_BloqueiaProprietario" Member="BloqueiaProprietarios" ThisKey="ID_Administrador" OtherKey="ID_Administrador" Type="BloqueiaProprietario" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Aluga" Member="Alugas">
+    <Type Name="Aluga">
+      <Column Name="Data_Aluguer_Inicio" Type="System.DateTime" DbType="Date NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Data_Aluguer_Final" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Imovel_Aluga" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+      <Association Name="Inquilino_Aluga" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+      <Association Name="Proprietario_Aluga" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BloqueiaInqulino" Member="BloqueiaInqulinos">
+    <Type Name="BloqueiaInqulino">
+      <Column Name="Data_de_bloqueio" Type="System.DateTime" DbType="SmallDateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Administrador" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Motivo" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Administrador_BloqueiaInqulino" Member="Administrador" ThisKey="ID_Administrador" OtherKey="ID_Administrador" Type="Administrador" IsForeignKey="true" />
+      <Association Name="Inquilino_BloqueiaInqulino" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BloqueiaProprietario" Member="BloqueiaProprietarios">
+    <Type Name="BloqueiaProprietario">
+      <Column Name="Data_de_bloqueio" Type="System.DateTime" DbType="SmallDateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Administrador" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Motivo" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Administrador_BloqueiaProprietario" Member="Administrador" ThisKey="ID_Administrador" OtherKey="ID_Administrador" Type="Administrador" IsForeignKey="true" />
+      <Association Name="Proprietario_BloqueiaProprietario" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Comenta" Member="Comentas">
+    <Type Name="Comenta">
+      <Column Name="Data_de_comentario" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Texto" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Imovel_Comenta" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+      <Association Name="Inquilino_Comenta" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Compra" Member="Compras">
+    <Type Name="Compra">
+      <Column Name="Data_de_compra" Type="System.DateTime" DbType="Date NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Imovel_Compra" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+      <Association Name="Inquilino_Compra" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+      <Association Name="Proprietario_Compra" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Concelho" Member="Concelhos">
+    <Type Name="Concelho">
+      <Column Name="ID_Concelho" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nome_concelho" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Concelho_Encontra_se" Member="Encontra_ses" ThisKey="ID_Concelho" OtherKey="ID_Concelho" Type="Encontra_se" />
+      <Association Name="Concelho_Situa_se" Member="Situa_se" ThisKey="ID_Concelho" OtherKey="ID_Concelho" Type="Situa_se" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Denuncia" Member="Denuncias">
+    <Type Name="Denuncia">
+      <Column Name="Data_denuncia" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Texto" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Inquilino_Denuncia" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+      <Association Name="Proprietario_Denuncia" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DenunciaProp" Member="DenunciaProps">
+    <Type Name="DenunciaProp">
+      <Column Name="Data_denuncia" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Texto" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Inquilino_DenunciaProp" Member="Inquilino" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Inquilino" IsForeignKey="true" />
+      <Association Name="Proprietario_DenunciaProp" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Distrito" Member="Distritos">
+    <Type Name="Distrito">
+      <Column Name="ID_Distrito" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nome_distrito" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Distrito_Situa_se" Member="Situa_ses" ThisKey="ID_Distrito" OtherKey="ID_Distrito" Type="Situa_se" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Encontra_se" Member="Encontra_ses">
+    <Type Name="Encontra_se">
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Concelho" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Concelho_Encontra_se" Member="Concelho" ThisKey="ID_Concelho" OtherKey="ID_Concelho" Type="Concelho" IsForeignKey="true" />
+      <Association Name="Imovel_Encontra_se" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Fotos" Member="Fotos">
+    <Type Name="Foto">
+      <Column Name="ID_Foto" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome_Foto" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Foto_PossuiFoto" Member="PossuiFoto" ThisKey="ID_Foto" OtherKey="ID_Foto" Type="PossuiFoto" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Imovel" Member="Imovels">
+    <Type Name="Imovel">
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Rua" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Foto_principal" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Codigo_Postal" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="N_Porta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Finalidade" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="Data_de_Inscricao" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Valor_aluguer" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Valor_venda" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Descricao" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Metros" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Latitude" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Longitude" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Garagem" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Quantidade_de_Suits" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Quantidade_de_Quartos" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Quantidade_de_Casas_de_Banho" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tipo_de_Imovel" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="N_vizualizacoes" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Imovel_Aluga" Member="Alugas" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Aluga" />
+      <Association Name="Imovel_Comenta" Member="Comentas" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Comenta" />
+      <Association Name="Imovel_Compra" Member="Compras" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Compra" />
+      <Association Name="Imovel_Encontra_se" Member="Encontra_se" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Encontra_se" Cardinality="One" />
+      <Association Name="Imovel_PossuiFoto" Member="PossuiFotos" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="PossuiFoto" />
+      <Association Name="Imovel_PossuiImovel" Member="PossuiImovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="PossuiImovel" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inquilino" Member="Inquilinos">
+    <Type Name="Inquilino">
+      <Column Name="ID_Inquilino" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Tipo_Utilizador" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Foto_perfil" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Data_de_Registo" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Data_Nascimento" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Numero_de_Telemovel" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="Cartao_de_Cidadao" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Inquilino_Aluga" Member="Alugas" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Aluga" />
+      <Association Name="Inquilino_BloqueiaInqulino" Member="BloqueiaInqulinos" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="BloqueiaInqulino" />
+      <Association Name="Inquilino_Comenta" Member="Comentas" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Comenta" />
+      <Association Name="Inquilino_Compra" Member="Compras" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Compra" />
+      <Association Name="Inquilino_Denuncia" Member="Denuncias" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="Denuncia" />
+      <Association Name="Inquilino_DenunciaProp" Member="DenunciaProps" ThisKey="ID_Inquilino" OtherKey="ID_Inquilino" Type="DenunciaProp" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PossuiFotos" Member="PossuiFotos">
+    <Type Name="PossuiFoto">
+      <Column Name="ID_Foto" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Foto_PossuiFoto" Member="Foto" ThisKey="ID_Foto" OtherKey="ID_Foto" Type="Foto" IsForeignKey="true" />
+      <Association Name="Imovel_PossuiFoto" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PossuiImovel" Member="PossuiImovels">
+    <Type Name="PossuiImovel">
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Imovel" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Imovel_PossuiImovel" Member="Imovel" ThisKey="ID_Imovel" OtherKey="ID_Imovel" Type="Imovel" IsForeignKey="true" />
+      <Association Name="Proprietario_PossuiImovel" Member="Proprietario" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Proprietario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Proprietario" Member="Proprietarios">
+    <Type Name="Proprietario">
+      <Column Name="ID_Proprietario" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Tipo_Utilizador" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Foto_perfil" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Data_de_Registo" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Data_Nascimento" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Estado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Numero_de_Telemovel" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="Cartao_de_Cidadao" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Proprietario_Aluga" Member="Alugas" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Aluga" />
+      <Association Name="Proprietario_BloqueiaProprietario" Member="BloqueiaProprietarios" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="BloqueiaProprietario" />
+      <Association Name="Proprietario_Compra" Member="Compras" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Compra" />
+      <Association Name="Proprietario_Denuncia" Member="Denuncias" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="Denuncia" />
+      <Association Name="Proprietario_DenunciaProp" Member="DenunciaProps" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="DenunciaProp" />
+      <Association Name="Proprietario_PossuiImovel" Member="PossuiImovels" ThisKey="ID_Proprietario" OtherKey="ID_Proprietario" Type="PossuiImovel" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Situa_se" Member="Situa_ses">
+    <Type Name="Situa_se">
+      <Column Name="ID_Distrito" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Concelho" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Concelho_Situa_se" Member="Concelho" ThisKey="ID_Concelho" OtherKey="ID_Concelho" Type="Concelho" IsForeignKey="true" />
+      <Association Name="Distrito_Situa_se" Member="Distrito" ThisKey="ID_Distrito" OtherKey="ID_Distrito" Type="Distrito" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

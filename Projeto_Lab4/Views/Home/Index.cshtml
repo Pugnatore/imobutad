@@ -1,0 +1,119 @@
+﻿@model IEnumerable<Projeto_Lab4.Models.Imovel>
+@{
+    Layout = "~/Views/Shared/_layout2.cshtml";
+
+ }
+
+
+    @section cssstyle{
+        <link href="~/Content/Site.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            width: 850px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            margin-left:-50px;
+            background-color: white;
+            background-image: url('/Content/searchicon.png');
+            background-size: 25px;
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            padding: 12px 20px 12px 40px;
+            -webkit-transition: width 0.4s ease-in-out;
+            transition: width 0.4s ease-in-out;
+        }
+
+            input[type=text]:focus {
+                width: 100%;
+            }
+    </style>
+        }
+
+    <div align="center">
+        <img src="~/Content/Index.jpg" style="width:100%" />
+    </div> 
+    @if (ViewBag.sucessoRI != null)
+    {<p align="center" style="color:#2bea0a;">@ViewBag.sucessoRI </p> <br /> }
+<div class="container body-content">
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        <br />
+        <br />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <div align="center">
+                    @if (TempData["pendente"] != null)
+                    {
+                        <p style="color:#e01212;margin-left: -15.266666666666664%;">@TempData["pendente"] </p>
+
+                    }
+                    </div>
+                    <input type="text" name="Procurar" placeholder="Pesquisar imóvel por distrito, concelho ou tipologia (ex: t1, t2...)...">
+                    @if (ViewBag.erro != null)
+                {
+                        <p style="color:#e01212;">@ViewBag.erro </p>
+                    }
+                    <br />
+                    <select name="Tipo_de_imovel">
+                        <option value="">--Escolha um tipo de Imóvel--</option>
+                        <option value="Apartamento">Apartamento</option>
+                        <option value="Moradias">Moradias</option>
+                        <option value="Quartos">Quartos</option>
+                    </select>
+                    <select name="Finalidade">
+                        <option value="">--Escolha a finalidade--</option>
+                        <option value="Comprar">Comprar</option>
+                        <option value="Alugar">Alugar</option>
+                        <option value="Ambos">Ambos</option>
+                    </select>
+                    <input type="submit" value="Pesquisar" class="btn btn-default" />
+                    <a href='@Url.Action("PesquisaAvancada", "Home")'>
+                        <button type="button" class="btn btn-default btn-cons">Pesquisa avançada</button>
+                    </a>
+                </div>
+        </div>
+         
+
+    }
+    <div align="center"><h1>Destaques</h1></div>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="thumbnail img-thumb-bg" style="background-image: url('@item.Foto_principal'); background-size: 300px;border-radius: 25px">
+                        <div class="overlay"></div>
+                        <div class="caption">
+                            <div class="tag"><a href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel">@item.Encontra_se.Concelho.Situa_se.Distrito.Nome_distrito</a></div>
+                            <div class="title"><a href="/Imoveis/DetalhesImoveis/?imovelid=@item.ID_Imovel"> @item.Tipo_de_Imovel</a></div>
+                            <div class="clearfix">
+                                <span class="meta-data">Publicado por <a href="">@item.PossuiImovel.Proprietario.Nome</a> no dia @item.Data_de_Inscricao.Day/@item.Data_de_Inscricao.Month/@item.Data_de_Inscricao.Year  Vizualizaçoes: @item.N_vizualizacoes </span>
+                            </div>
+                            <div class="content">
+                                <p>@item.Descricao</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+    
+
+
+

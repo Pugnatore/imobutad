@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.75, 13.75" name="DBImobiliaria">
+  <DataContextMoniker Name="/DBImobiliariaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="23de6ead-5d47-4ec7-99c7-d3b4211d2020" absoluteBounds="0.75, 2.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Administrador" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13b69449-bf86-4581-8b62-a0241383aaeb" absoluteBounds="0.765, 2.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89f012d3-0643-4a0d-8594-3abfe6c3088e" absoluteBounds="6.875, 9.25, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Aluga" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4cfd94b-cca1-4a78-8139-77f550af8134" absoluteBounds="6.89, 9.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="baf67d8f-f6ed-4d44-ac1e-4d90fded7134" absoluteBounds="6.5, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/BloqueiaInqulino" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10e261e5-4b08-4889-8d0d-75a790269ab5" absoluteBounds="6.515, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55163c9a-cf1b-4f6c-b459-99d71355c937" absoluteBounds="3.5, 4.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/BloqueiaProprietario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f72d428-d9dc-486e-9d8b-2c76ca7e5399" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ece5d30f-22ca-4f7f-ae0f-2c958352cf1d" absoluteBounds="9, 6.625, 2, 1.5785953776041657">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Comenta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fa8a58e-f83d-4cd1-a609-bd81a511b462" absoluteBounds="9.015, 7.0850000000000009, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c1924b6a-5d59-4f80-aef4-b55aaeb776e8" absoluteBounds="3.5, 9.5, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Compra" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54132b5a-d6bb-44d3-9155-28155cd09761" absoluteBounds="3.515, 9.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="38803e0b-7674-424c-98df-00e581b29eaa" absoluteBounds="9.75, 2.625, 2, 1.193992513020834">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Concelho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59aba68e-0386-4dac-b802-ac2dc29f7227" absoluteBounds="9.765, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e5481950-610d-49f4-be99-6e7224c28eee" absoluteBounds="6.625, 7, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Denuncia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="561f8613-113b-4d48-96ba-d0af333752f0" absoluteBounds="6.64, 7.4600000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0aea0a72-9638-441f-81d1-5d53b7f2a55d" absoluteBounds="6.5, 4.375, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/DenunciaProp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5579e3a2-97bb-4940-8934-1cf4708dce46" absoluteBounds="6.515, 4.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90a855cb-be75-462a-bdd4-5b73a1e25f46" absoluteBounds="9.75, 0.625, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Distrito" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4985e02c-e95d-43b8-b7e5-f502fbc740b0" absoluteBounds="9.765, 1.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8cd65f54-4b33-4f5b-b672-c630963e25c6" absoluteBounds="12.25, 8.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Encontra_se" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2bca9260-9a38-4f4b-957b-2dc91bed7b52" absoluteBounds="12.265, 9.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d95b9c6a-87ae-4d76-8c9d-e0f7f58614f3" absoluteBounds="8.25, 12.125, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Foto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4cca9af2-4e06-4216-9f6d-fc033bce3c09" absoluteBounds="8.265, 12.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" absoluteBounds="0.625, 8.875, 2, 4.6554182942708344">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Imovel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d8ae426-746a-40f1-8a3b-33762f119f5e" absoluteBounds="0.64, 9.335, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e71183d7-b6ec-45f5-b709-05c671183a46" absoluteBounds="3.75, 0.5, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Inquilino" />
+      <nestedChildShapes>
+        <elementListCompartment Id="880e931b-c0ae-40c6-b821-1b7ee961d5f6" absoluteBounds="3.765, 0.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="83ea230a-bd36-467d-b14e-63fe583b2515" absoluteBounds="3.5, 12.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/PossuiFoto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a900a37d-8312-42b6-ab77-d0642bcde987" absoluteBounds="3.515, 12.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d952e0ac-190f-48f1-ad75-92d09546a53d" absoluteBounds="3.5, 7.625, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/PossuiImovel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9bdcadc-b91c-4ab1-afe5-7b97a4c9cc45" absoluteBounds="3.515, 8.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" absoluteBounds="0.625, 5.375, 2, 3.1170068359374987">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Proprietario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1e7eafbb-6fbd-4a9b-b567-6de9f9e70419" absoluteBounds="0.64, 5.8350000000000009, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="136981fb-0aa8-4e98-8c3e-30c2e3e80300" absoluteBounds="12.5, 2.625, 2, 1.193992513020834">
+      <DataClassMoniker Name="/DBImobiliariaDataContext/Situa_se" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3e6ea2e-f8d3-4839-9c90-ddfb0d67b494" absoluteBounds="12.515, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 3.94155110677083); (5.53385260416667 : 3.94155110677083 : JumpStart); (5.79427177083333 : 3.94155110677083 : JumpEnd); (6.5 : 3.94155110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Administrador/Administrador_BloqueiaInqulino" />
+      <nodes>
+        <classShapeMoniker Id="23de6ead-5d47-4ec7-99c7-d3b4211d2020" />
+        <classShapeMoniker Id="baf67d8f-f6ed-4d44-ac1e-4d90fded7134" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.31452755338542); (3.59375 : 4.31452755338542); (3.59375 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Administrador/Administrador_BloqueiaProprietario" />
+      <nodes>
+        <classShapeMoniker Id="23de6ead-5d47-4ec7-99c7-d3b4211d2020" />
+        <classShapeMoniker Id="55163c9a-cf1b-4f6c-b459-99d71355c937" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.40625 : 3.81899251302083); (11.40625 : 9.47199625651042); (12.25 : 9.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Concelho/Concelho_Encontra_se" />
+      <nodes>
+        <classShapeMoniker Id="38803e0b-7674-424c-98df-00e581b29eaa" />
+        <classShapeMoniker Id="8cd65f54-4b33-4f5b-b672-c630963e25c6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 11.6979484049479); (7.53125 : 11.6979484049479); (7.53125 : 11.2131982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_Aluga" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="89f012d3-0643-4a0d-8594-3abfe6c3088e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 9.03125); (2.91666666666667 : 9.03125 : JumpStart); (3.08333333333333 : 9.03125 : JumpEnd); (3.28931217447917 : 9.03125 : JumpStart); (3.45597884114583 : 9.03125 : JumpEnd); (5.62760510416667 : 9.03125 : JumpStart); (5.86478707384087 : 9.03125 : JumpEnd); (8.69791666666667 : 9.03125 : JumpStart); (8.86458333333333 : 9.03125 : JumpEnd); (10.65625 : 9.03125); (10.65625 : 8.20359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_Comenta" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="ece5d30f-22ca-4f7f-ae0f-2c958352cf1d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 10.3854484049479); (3.5 : 10.3854484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_Compra" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="c1924b6a-5d59-4f80-aef4-b55aaeb776e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 11.4844201074219); (7.44791666666667 : 11.4844201074219 : JumpStart); (7.61458333333333 : 11.4844201074219 : JumpEnd); (13.25 : 11.4844201074219); (13.25 : 10.0689925130208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_Encontra_se" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="8cd65f54-4b33-4f5b-b672-c630963e25c6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.7109384375 : 3.6170068359375); (5.7109384375 : 9.3124975); (6.875 : 9.3124975)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_Aluga" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="89f012d3-0643-4a0d-8594-3abfe6c3088e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 3.12100341796875); (6.5 : 3.12100341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_BloqueiaInqulino" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="baf67d8f-f6ed-4d44-ac1e-4d90fded7134" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.6171859375 : 3.6170068359375); (5.6171859375 : 6.78125); (5.62760510416667 : 6.78125 : JumpStart); (5.79427177083333 : 6.78125 : JumpEnd); (6.04166666666667 : 6.78125 : JumpStart); (6.20833333333333 : 6.78125 : JumpEnd); (8.69791666666667 : 6.78125 : JumpStart); (8.86458333333333 : 6.78125 : JumpEnd); (9 : 6.78125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_Comenta" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="ece5d30f-22ca-4f7f-ae0f-2c958352cf1d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 3.61546737439904); (6.125 : 3.99046737439904); (6.125 : 8.875); (5.875 : 8.875); (5.75374451247851 : 9.07753262961048 : JumpStart); (5.66813236252149 : 9.22053031335926 : JumpEnd); (5.5 : 9.50136122831531)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_Compra" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="c1924b6a-5d59-4f80-aef4-b55aaeb776e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.6796859375 : 3.6170068359375); (5.6796859375 : 7.28125); (6.04166666666667 : 7.28125 : JumpStart); (6.20833333333333 : 7.28125 : JumpEnd); (6.625 : 7.28125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_Denuncia" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="e5481950-610d-49f4-be99-6e7224c28eee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.640621875 : 3.6170068359375); (5.640621875 : 4.46875); (6.04166666666667 : 4.46875 : JumpStart); (6.20833333333333 : 4.46875 : JumpEnd); (6.5 : 4.46875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Inquilino/Inquilino_DenunciaProp" />
+      <nodes>
+        <classShapeMoniker Id="e71183d7-b6ec-45f5-b709-05c671183a46" />
+        <classShapeMoniker Id="0aea0a72-9638-441f-81d1-5d53b7f2a55d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 12.7219962565104); (5.5 : 12.7219962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Foto/Foto_PossuiFoto" />
+      <nodes>
+        <classShapeMoniker Id="d95b9c6a-87ae-4d76-8c9d-e0f7f58614f3" />
+        <classShapeMoniker Id="83ea230a-bd36-467d-b14e-63fe583b2515" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 12.7219962565104); (3.5 : 12.7219962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_PossuiFoto" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="83ea230a-bd36-467d-b14e-63fe583b2515" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 8.87653746153846); (3 : 8.50153746153846); (3 : 9.44399251302083); (3.125 : 9.44399251302083); (3.14462535371437 : 9.41128359016355 : JumpStart); (3.23037464628563 : 9.26836810254479 : JumpEnd); (3.5 : 8.81899251302083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Imovel/Imovel_PossuiImovel" />
+      <nodes>
+        <classShapeMoniker Id="10cfafe8-ee4c-4c04-8b5c-0529ac34ae54" />
+        <classShapeMoniker Id="d952e0ac-190f-48f1-ad75-92d09546a53d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 6.62322451660156); (5.53385260416667 : 6.62322451660156 : JumpStart); (5.79427177083333 : 6.62322451660156 : JumpEnd); (6.04166666666667 : 6.62322451660156 : JumpStart); (6.20833333333333 : 6.62322451660156 : JumpEnd); (8.78125 : 6.62322451660156); (8.78125 : 9.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_Aluga" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="89f012d3-0643-4a0d-8594-3abfe6c3088e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 5.78929768880208); (3.5 : 5.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_BloqueiaProprietario" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="55163c9a-cf1b-4f6c-b459-99d71355c937" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 8.43046737439904); (2.94107443490112 : 8.74654180930016 : JumpStart); (3.05892556509888 : 8.86439293949792 : JumpEnd); (3.1875 : 8.99296737439904); (3.1875 : 9.91147220247396); (3.5 : 9.91147220247396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_Compra" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="c1924b6a-5d59-4f80-aef4-b55aaeb776e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 7.484375); (5.62760510416667 : 7.484375 : JumpStart); (5.79427177083333 : 7.484375 : JumpEnd); (6.04166666666667 : 7.484375 : JumpStart); (6.20833333333333 : 7.484375 : JumpEnd); (6.625 : 7.484375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_Denuncia" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="e5481950-610d-49f4-be99-6e7224c28eee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 6.40269403320313); (5.53385260416667 : 6.40269403320312 : JumpStart); (5.79427177083333 : 6.40269403320313 : JumpEnd); (6.04166666666667 : 6.40269403320312 : JumpStart); (6.20833333333333 : 6.40269403320313 : JumpEnd); (6.53125 : 6.40269403320313); (6.53125 : 6.14589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_DenunciaProp" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="0aea0a72-9638-441f-81d1-5d53b7f2a55d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 8.05850341796875); (3.5 : 8.05850341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Proprietario/Proprietario_PossuiImovel" />
+      <nodes>
+        <classShapeMoniker Id="08e6632a-bb2f-40bf-a67d-fce9f18684de" />
+        <classShapeMoniker Id="d952e0ac-190f-48f1-ad75-92d09546a53d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 3.22199625651042); (12.5 : 3.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Concelho/Concelho_Situa_se" />
+      <nodes>
+        <classShapeMoniker Id="38803e0b-7674-424c-98df-00e581b29eaa" />
+        <classShapeMoniker Id="136981fb-0aa8-4e98-8c3e-30c2e3e80300" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 1.22199625651042); (13.5 : 1.22199625651042); (13.5 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBImobiliariaDataContext/Distrito/Distrito_Situa_se" />
+      <nodes>
+        <classShapeMoniker Id="90a855cb-be75-462a-bdd4-5b73a1e25f46" />
+        <classShapeMoniker Id="136981fb-0aa8-4e98-8c3e-30c2e3e80300" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

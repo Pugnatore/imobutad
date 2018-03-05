@@ -1,0 +1,39 @@
+﻿@model Projeto_Lab4.Models.DenunciaProp
+
+@{
+    ViewBag.Title = "VerDetalhesDenuncias";
+}
+
+
+<h2>Ver Detalhes de Denuncias</h2>
+<h5>Utilizador Denunciado:</h5>
+@if (TempData["UtilizadorBloqueado"] != null)
+{
+    <br />
+    <br />
+    <p style="font-weight:bold;color:red;">@TempData["UtilizadorBloqueado"]</p>
+}
+
+
+
+<div>
+    <h4>Motivo de denuncia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Texto)
+        </dt>
+
+        <dd>
+            <i> @Html.DisplayFor(model => model.Texto)</i>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href='@Url.Action("BloquearUtilizadorprop", "AdministracaoUtilizadores",new { id = Model.ID_Proprietario })'>
+        <button type="button" class="btn btn-danger btn-cons">Bloquear Utilizador</button>
+    </a>
+</p>
+
+

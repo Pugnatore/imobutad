@@ -1,0 +1,30 @@
+﻿@model Projeto_Lab4.Models.BloqueiaInqulino
+
+@{
+    ViewBag.Title = "Bloqueado";
+}
+
+
+
+
+
+<h1>Atenção</h1>
+<p style="font-weight:bold; color:red;">Lamentamos informar mas esta conta encontra-se bloqueada</p>
+<div>
+    <div align="center">
+        <img style=" max-width:30%" src="~/Content/53_warning-512.png" />
+        </div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Motivo)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Motivo)
+            </dd>
+
+        </dl>
+
+    </div>
+
